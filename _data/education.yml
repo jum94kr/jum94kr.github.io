@@ -1,11 +1,10 @@
 - layout: left
-  name: 패스트캠퍼스 AWS 운영 서버 관리 마스터 워크샵
-  dates: 2018.04 ~ 2018.05
-  link: https://github.com/jojoldu/fastcampus-aws-workshop
+  name: University of Queensland
+  dates: 2013 ~ 2015
   quote: >
-    AWS 운영에 필요한 기본 개념들과 배포 환경 구성 교육
+     During my time at University of Queensland, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
   description: | # this will include new lines to allow paragraphs
-    * 신규 개편할 포인트 시스템의 AWS 인프라 구축이 필요해 참여
+    * Bachelor of Information Technology
     * Code Deploy를 통한 무중단 배포, Cloud Watch 모니터링 등 
 - layout: left
   name: 패스트캠퍼스 SQL 튜닝 캠프
