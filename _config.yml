@@ -14,7 +14,7 @@ linkedin_username: hongchangan
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/myprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi I'm a FrontEnd Developer with a passion for creating beautiful and engaging web experiences. With over a year of experience in web development, I have a strong background in <mark>HTML</mark>, <mark>CSS</mark>, and <mark>JavaScript</mark> and have experience using popular front-end frameworks such as <mark>React</mark>. I'm well-versed in modern web development practices and I'm always looking to improve my skills. I'm particularly interested in back-end development and I'm eager to expand my skillset. I'm a quick learner and always eager to take on new challenges. I would love to connect with you and share more about my experience and how I can contribute to your team. Let's make something great together!
 
