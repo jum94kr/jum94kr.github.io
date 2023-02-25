@@ -2,26 +2,22 @@
   name: University of Queensland
   dates: 2013 ~ 2015
   quote: >
-     During my time at University of Queensland, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+   Bachelor of Information Technology  
   description: | # this will include new lines to allow paragraphs
-    * Bachelor of Information Technology
-    * Code Deploy를 통한 무중단 배포, Cloud Watch 모니터링 등 
+    * During my time at University of Queensland, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 - layout: left
-  name: 패스트캠퍼스 SQL 튜닝 캠프
-  dates: 2017.07 ~ 2017.08
-  link: https://jojoldu.tistory.com/162
+  name: Boston College
+  dates: 2013 - 2014
   quote: >
-    오라클을 기반의 쿼리 튜닝 교육
+    Exchange Program - Computer Science
   description: | # this will include new lines to allow paragraphs
-    * 정산 시스템을 개발/운영 하면서 복잡한 쿼리 + 쿼리 성능 튜닝의 필요성을 느껴 참여
-    * 기본적인 인덱스, 실행 계획, RDBMS의 구조
-    * 실제 업무에 적용 후 쿼리 성능 향상 (5초 -> 1.2초)
+    * Boston College exchange program provided me  a unique and valuable experience that helped you grow personally, academically, and culturally.
+    * Studying abroad can increase your cultural awareness and understanding of different cultures. Boston College offers a diverse student body, and you may have had the opportunity to meet and learn from students from around the world.
 - layout: left
-  name: 패스트캠퍼스 자바 웹 프로그래밍 CAMP
-  dates: 2016.07 ~ 2016.08
-  link: https://jojoldu.tistory.com/301
+  name: Charles Sturt University
+  dates: 2016 - 2017
   quote: >
-    자바지기 박재성님의 교육
+    Master's degree in Cloud Computing
   description: | # this will include new lines to allow paragraphs
-    * 테스트 코드와 클린 코드 교육
+    * Master's degree in Cloud Computing provide me with a deep understanding of cloud computing principles, technologies, and applications, as well as the skills to design, implement, and manage cloud computing solutions.
     
