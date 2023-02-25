@@ -12,6 +12,10 @@
 
             {%- include about.html -%}
 
+            {%- if site.data.education.size > 0 -%}
+            {%- include education.html -%}
+            {%- endif -%}
+
             {%- if site.data.skill.size > 0 -%}
             {%- include skill.html -%}
             {%- endif -%}
@@ -28,9 +32,7 @@
                 {%- include opensource.html -%}
             {%- endif -%}
 
-            {%- if site.data.education.size > 0 -%}
-                {%- include education.html -%}
-            {%- endif -%}
+        
 
             {%- include more.html -%}
 
