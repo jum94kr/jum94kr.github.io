@@ -1,21 +1,20 @@
 - layout: left
-  company: 인프랩
-  link: https://www.inflearn.com/
-  job_title: CTO
-  dates: 2021.04 ~ 현재
+  company: SOL Edu & Migration
+  link: https://www.soledu.net/en/
+  job_title: Software Developer
+  dates: 2016.03 ~ 2017.07
   quote: >
-    회원수 100만, 누적 학습수 3000만건의 에듀테크 서비스
+    During my tenure at SOL 'Migration', I was entrusted with the responsibility of modernizing the primary website and administering the new database system by utilizing MySQL. In addition, I was fortunate enough to spearhead the development of a waiting list for seminars utilizing Javascript, while also designing an advanced human resources management tool tailored specifically to the unique requirements of SOL Migration, utilizing the PHP.
   description: | # this will include new lines to allow paragraphs
-    * 사내 모니터링 & 알람 도입 (APM / CloudWatch & Lambda)
-    * [신규 서비스 랠릿](https://www.rallit.com/) 전체 아키텍처 및 도메인 모델 설계
-    * PostgreSQL 성능 튜닝 및 [장애 대응](https://tech.inflab.com/202201-event-postmortem/)
-    * 개발파트 채용 브랜딩 개선 ([백엔드](https://www.notion.so/inflab/NodeJS-c3df214ebb28423092f6798122156c4d) / [프론트엔드](https://www.notion.so/inflab/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642))
-    * 테스트 코드 & 코드리뷰 & 아키텍처 개선 등 개발환경 개선
+    * Javascript 
+    * PHP
+    * MySQL
+    * SNS Marketing
+    * Google Ads
 - layout: left
-  company: 우아한형제들
-  link: https://www.woowahan.com/
-  job_title: Java & Spring 백엔드 개발자
-  dates: 2016.12 ~ 2021.04
+  company: Republic of Korea Army
+  job_title: Sever Management & IT Support
+  dates: 2021.6 ~ 2022.12
   quote: >
    MAU 1,500만, 일 주문 300만건의 커머스 서비스
   description: | # this will include new lines to allow paragraphs
@@ -36,12 +35,3 @@
      * EhCache를 이용한 로컬 캐시, 브라우저 전역 변수를 이용한 클라이언트 캐시등으로 API서버가 죽어도 문제가 없는 메인페이지 구성
      * IDC 인프라 환경에서의 개발/운영
      * 2016년 본부 추천 <mark>특진</mark> 
-- layout: left
-  company: KCC정보통신
-  job_title: 웹 개발자
-  dates: 2014.02 ~ 2014.12
-  quote: >
-   연매출 1000억의 중견 SI 기업
-  description: | # this will include new lines to allow paragraphs
-     * 사내 프로젝트 개발 및 100억원의 SI 프로젝트 참여
-     * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험  
