@@ -2,7 +2,6 @@
   name: FLIGHT SCHEDULE
   link: https://flight-lookup.vercel.app/
   link: https://flight-lookup.vercel.app/
-  [Git Repository](https://github.com/jum94kr/flight-lookup)
   
   quote: >
     The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience with API request handling. My passion for managing flight schedules, developed through extensive global travel, fueled my interest in leveraging an API from API Hub to enrich my learning experience. To enhance the quality and organization of the project, I utilized styled components, a styling library that provides a more modular, maintainable, and efficient approach to styling React components. Additionally, I implemented TypeScript to improve the overall code quality, maintainability, and scalability of the project. The strong typing system of TypeScript enabled me to better structure the code and provide more comprehensive documentation, while also improving tooling support.
