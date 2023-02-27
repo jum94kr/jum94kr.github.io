@@ -16,22 +16,20 @@
   job_title: Sever Management & IT Support
   dates: 2021.6 ~ 2022.12
   quote: >
-   MAU 1,500만, 일 주문 300만건의 커머스 서비스
+
   description: | # this will include new lines to allow paragraphs
-     * 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
-     * 정산, 포인트, 주문 시스템의 레거시 개편
-     * 업계 최초 일정산, 광고 정산 등 비지니스 지원
-     * IDC / AWS 환경 모두에서 무중단 배포, 성능 테스트, 운영 시스템 구축
-     * 2019년 상반기 <mark>우수사원</mark> 수상
+     * Manager more than 200 military computers.
+     * Military intranet management.
+     * IT security management.
+     * Tactical device handling.
+     
 - layout: left
-  company: 줌인터넷
-  link: https://zum.com
-  job_title: 웹 개발자
-  dates: 2014.12 ~ 2016.12
+  company: RiverOne
+  link: https://github.com/jum94kr/quinn-site-manager
+  job_title: Web Testing
+  dates: 2020.9 ~ 2020.10
   quote: >
-   일일 PV 2000만의 포탈 서비스
+   Site workforce manager
   description: | # this will include new lines to allow paragraphs
-     * 포털 메인 페이지, 회원 서비스의 메인 개발자로 개발/운영
-     * EhCache를 이용한 로컬 캐시, 브라우저 전역 변수를 이용한 클라이언트 캐시등으로 API서버가 죽어도 문제가 없는 메인페이지 구성
-     * IDC 인프라 환경에서의 개발/운영
-     * 2016년 본부 추천 <mark>특진</mark> 
+    * Collaborating with the development team to reproduce and debug defects.
+    * Providing feedback to the development team on usability and user experience issues.
