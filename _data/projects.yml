@@ -1,10 +1,10 @@
 - layout: top-middle
   name: FLIGHT SCHEDULE
   link: https://flight-lookup.vercel.app/
+  link: https://github.com/jum94kr/flight-lookup
   quote: >
     The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience with API request handling. My passion for managing flight schedules, developed through extensive global travel, fueled my interest in leveraging an API from API Hub to enrich my learning experience. To enhance the quality and organization of the project, I utilized styled components, a styling library that provides a more modular, maintainable, and efficient approach to styling React components. Additionally, I implemented TypeScript to improve the overall code quality, maintainability, and scalability of the project. The strong typing system of TypeScript enabled me to better structure the code and provide more comprehensive documentation, while also improving tooling support.
   description: | # this will include new lines to allow paragraphs
-    * https://github.com/jum94kr/flight-lookup
     * Styled component 
     * Handling API request
     * Typescript
@@ -15,7 +15,6 @@
   link: https://github.com/jum94kr/diary
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * https://github.com/jum94kr/diary
     * React Project
     * CRUD
 
@@ -25,7 +24,6 @@
   quote: >
     Test / DevOps
   description: | # this will include new lines to allow paragraphs
-    * https://github.com/jum94kr/quinn-site-manager
     * Creating and executing test plans.
     * Creating and executing test cases.
     * Identifying defects and issues and reporting them to the development team.
@@ -35,7 +33,6 @@
   link: https://github.com/jum94kr/Finalised
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * https://github.com/jum94kr/Finalised
     * Vanilla Javascript 
     * Geolocation
     * Weather API
@@ -46,5 +43,4 @@
   link: https://github.com/jum94kr/calculator-vanilla-javascript
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * https://github.com/jum94kr/calculator-vanilla-javascript
     * Vanilla Javascript 
