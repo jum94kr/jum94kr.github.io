@@ -11,6 +11,7 @@
 - layout: top-middle
   name: React Diary
   link: https://github.com/jum94kr/diary
+  github: jum94kr/diary
   quote: >
   description: | # this will include new lines to allow paragraphs
     In React Diary, I have developed the functions that users can create, read, update, and delete tasks that they need to complete. The user interface was built with <mark>React</mark>, and data would be stored in a database.
@@ -18,6 +19,7 @@
 - layout: top-middle
   name: Site Manager
   link: https://github.com/jum94kr/quinn-site-manager
+  github: jum94kr/quinn-site-manager
   quote: >
     Test / DevOps
   description: | # this will include new lines to allow paragraphs
@@ -26,6 +28,7 @@
 - layout: top-middle
   name: To Do List 
   link: https://github.com/jum94kr/Finalised
+  github: jum94kr/Finalised
   quote: >
   description: | # this will include new lines to allow paragraphs
     The To-Do project was developed utilising <mark>Vanilla Javascript</mark> for the front-end and in order to optimise user experience, the project leverages the <mark>Geolocation API</mark>, allowing for automatic detection of the user's current location, and the real-time display of weather conditions specific to that location. The primary function of the To-Do project centers on the full CRUD cycle, which enables users to easily create, retrieve, update, and delete their personalised list of tasks which increasing productivity.
@@ -33,6 +36,7 @@
 - layout: top-middle
   name: Calculator
   link: https://github.com/jum94kr/calculator-vanilla-javascript
+  github: jum94kr/calculator-vanilla-javascript
   quote: >
   description: | # this will include new lines to allow paragraphs
     This is a <mark>Vanilla Javascript</mark> project that offers a streamlined solution for performing basic math equations with ease. Utilizing simple and intuitive user interface design, the project provides an accessible and user-friendly experience for users to perform arithmetic operations quickly and efficiently.
