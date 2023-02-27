@@ -13,8 +13,7 @@
   link: https://github.com/jum94kr/diary
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * React Project
-    * CRUD
+    In React Diary, I have developed the functions that users can create, read, update, and delete tasks that they need to complete. The user interface was built with React, and data would be stored in a database.
 
 - layout: top-middle
   name: Site Manager
@@ -31,10 +30,7 @@
   link: https://github.com/jum94kr/Finalised
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * Vanilla Javascript 
-    * Geolocation
-    * Weather API
-    * CRUD
+    The To-Do project was developed utilising Vanilla Javascript for the front-end and in order to optimise user experience, the project leverages the Geolocation API, allowing for automatic detection of the user's current location, and the real-time display of weather conditions specific to that location. The primary function of the To-Do project centers on the full CRUD cycle, which enables users to easily create, retrieve, update, and delete their personalised list of tasks which increasing productivity.
 
 - layout: top-middle
   name: Calculator
