@@ -4,13 +4,9 @@
   job_title: Software Developer
   dates: 2016.03 ~ 2017.07
   quote: >
-    During my tenure at SOL 'Migration', I was entrusted with the responsibility of modernizing the primary website and administering the new database system by utilizing MySQL. In addition, I was fortunate enough to spearhead the development of a waiting list for seminars utilizing Javascript, while also designing an advanced human resources management tool tailored specifically to the unique requirements of SOL Migration, utilizing the PHP.
+    
   description: | # this will include new lines to allow paragraphs
-    * Javascript 
-    * PHP
-    * MySQL
-    * SNS Marketing
-    * Google Ads
+    During my tenure at SOL 'Migration', I was entrusted with the responsibility of modernizing the primary website and administering the new database system by utilizing <mark>MySQL</mark>. In addition, I was fortunate enough to spearhead the development of a waiting list for seminars utilizing <mark>Javascript</mark>, while also designing an advanced human resources management tool tailored specifically to the unique requirements of SOL Migration, utilizing the <mark>PHP</mark>.
 - layout: left
   company: Republic of Korea Army
   job_title: Sever Management & IT Support
