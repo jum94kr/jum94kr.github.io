@@ -10,7 +10,11 @@
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
 
-            {%- include about.html -%}
+            {% if page.lang == "en" %}
+              {%- include about_en.html -%}
+            {% else %}
+              {%- include about.html -%}
+            {% endif %}
 
             {%- if site.data.projects.size > 0 -%}
             {%- include projects.html -%}
@@ -28,11 +32,8 @@
             {%- include skill.html -%}
             {%- endif -%}
 
-
         </div>
     </main>
 
-
 </body>
-
 </html>
