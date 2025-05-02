@@ -1,4 +1,20 @@
 - layout: left
+  company: AXGATE
+  job_title: Network Engineer
+  dates: 2023.06 ~ 
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+     Key Responsibilities & Experience:
+     * Designed and troubleshooted SSLVPN configurations for the Korean Ministry of Education
+     * Built and maintained Disaster Recovery (DR) centers with Active-Standby HA setup
+     * Designed and deployed VPN infrastructure across AWS, Azure, and GCP environments
+     * Automated VPN, Firewall, and SSLVPN performance testing using Spirent TestCenter
+     * Gained hands-on experience in optimizing VPN, firewall rules, and routing policies
+     * Acquired foundational knowledge in networking concepts (NAT, routing, IPsec, L2/L3)
+
+
+- layout: left
   company: SOL Edu & Migration
   link: https://www.soledu.net/en/
   job_title: Software Developer
@@ -7,6 +23,7 @@
     
   description: | # this will include new lines to allow paragraphs
     During my tenure at SOL 'Migration', I was entrusted with the responsibility of modernizing the primary website and administering the new database system by utilizing <mark>MySQL</mark>. In addition, I was fortunate enough to spearhead the development of a waiting list for seminars utilizing <mark>Javascript</mark>, while also designing an advanced human resources management tool tailored specifically to the unique requirements of SOL Migration, utilizing the <mark>PHP</mark>.
+
 - layout: left
   company: Republic of Korea Army
   job_title: Sever Management & IT Support
