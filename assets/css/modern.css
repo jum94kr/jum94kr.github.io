@@ -10,6 +10,14 @@ body {
 }
 
 .wrapper {
+  max-width: 960px;
+  width: 100%;
+  margin: 40px auto;
+  padding: 24px 32px;
+  background: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  box-sizing: border-box;
   max-width: 900px;
   margin: 0 auto;
   padding: 40px 20px;
@@ -54,4 +62,46 @@ a:hover {
 ul {
   padding-left: 20px;
   margin: 0 0 20px 0;
+}
+
+
+@media (max-width: 1024px) {
+  .wrapper {
+    padding: 20px;
+    margin: 30px auto;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+
+  .wrapper {
+    padding: 16px;
+    margin: 20px auto;
+  }
+
+  h2, h3 {
+    font-size: 1.2rem;
+  }
+
+  .project-entry, .exp-entry, .edu-entry, .skill-category {
+    margin-bottom: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .wrapper {
+    padding: 12px;
+    margin: 12px auto;
+  }
+
+  h2, h3 {
+    font-size: 1rem;
+  }
+
+  body {
+    font-size: 14px;
+  }
 }
