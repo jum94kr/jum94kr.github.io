@@ -8,12 +8,11 @@
     The tool enables users to configure VPN connections with a single click, eliminating manual configurations.<br><br>
 
     <strong>My Contributions</strong><br>
-    <div style="font-size: 1.05rem; line-height: 1.7;">
       <p>• Identified necessary parameters for VPN connections and designed automation logic</p>
       <p>• Conducted testing and troubleshooting between on-premise equipment and AWS VPN</p>
       <p>• Enabled on-premise systems to directly fetch AWS resource information</p>
       <p>• Implemented secure API calls using Cross Account IAM structure</p>
-    </div>
+
 
 - layout: left
   name: "Cloud VPN Through Put Test"
@@ -24,13 +23,12 @@
     Spirent TestCenter was used to measure throughput under various network conditions and security configurations.<br><br>
 
     <strong>My Contributions</strong><br>
-    <div style="font-size: 1.05rem; line-height: 1.7;">
       <p>• Designed and deployed cloud network environments for VPN testing</p>
       <p>• Configured routing, security groups, NACLs, and VPC structures</p>
       <p>• Integrated and connected VPN Gateways and Customer Gateways</p>
       <p>• Connected Spirent devices and automated performance measurements</p>
       <p>• Troubleshot and validated communication between cloud VMs and on-premise systems</p>
-    </div>
+
 
 - layout: left
   name: "7-ELEVEN – Disaster Recovery Center Deployment"
@@ -40,12 +38,10 @@
     with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.<br><br>
 
     <strong>My Contributions</strong><br>
-    <div style="font-size: 1.05rem; line-height: 1.7;">
       <p>• Deployed and configured VPN equipment at the DR site</p>
       <p>• Built secure VPN tunnels between DR center and nationwide branch locations</p>
       <p>• Implemented failure detection and automated routing failover to the DR center</p>
       <p>• Designed and tested Active-Standby HA configuration for DR environment</p>
-    </div>
 
 - layout: left
   name: "FLIGHT SCHEDULE"
@@ -58,8 +54,7 @@
     fueled my interest in leveraging an API from API Hub to enrich my learning experience.<br><br>
 
     <strong>Technology Highlights</strong><br>
-    <div style="font-size: 1.05rem; line-height: 1.7;">
       <p>• Used styled-components for modular, maintainable React styling</p>
       <p>• Implemented TypeScript for improved tooling and scalability</p>
       <p>• Focused on clean architecture, reusable components, and rich API integration</p>
-    </div>
+
