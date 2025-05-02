@@ -5,12 +5,7 @@
   quote: ""
   description: >
     Collaborated with AWS VPN Team to develop a tool that automates the IPsec VPN setup between on-premise systems and AWS. 
-    The tool enables users to configure VPN connections with a single click, eliminating manual configurations.<br>
-
-    <strong>Key Features</strong>
-    <ul>
-      <li>Automatic retrieval and application of AWS Customer Gateway and Site-to-Site VPN settings</li>
-    </ul>
+    The tool enables users to configure VPN connections with a single click, eliminating manual configurations.<br><br>
 
     <strong>My Contributions</strong>
     <ul>
@@ -26,9 +21,9 @@
   description: >
     This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance 
     of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
-    Spirent TestCenter was used to measure throughput under various network conditions and security configurations.<br>
+    Spirent TestCenter was used to measure throughput under various network conditions and security configurations.<br> <br>
 
-    <strong>My Role</strong>
+    <strong>My Contributions</strong>
    
       <li>Designed and deployed cloud network environments for VPN testing</li>
       <li>Configured routing, security groups, NACLs, and VPC structures</li>
@@ -44,7 +39,7 @@
     Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication 
     with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.
 
-    <br><strong>My Role</strong>
+    <br> <br><strong>My Contributions</strong>
  
       <li>Deployed and configured VPN equipment at the DR site</li>
       <li>Built secure VPN tunnels between DR center and nationwide branch locations</li>
@@ -62,9 +57,9 @@
     with API request handling. My passion for managing flight schedules, developed through extensive global travel, 
     fueled my interest in leveraging an API from API Hub to enrich my learning experience.
 
-    <strong>Technology Highlights</strong>
-    <ul>
+     <br> <br><strong>Technology Highlights</strong>
+    
       <li>Used styled-components for modular, maintainable React styling</li>
       <li>Implemented TypeScript for improved tooling and scalability</li>
       <li>Focused on clean architecture, reusable components, and rich API integration</li>
-    </ul>
+
