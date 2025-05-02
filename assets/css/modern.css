@@ -1,0 +1,57 @@
+
+body {
+  font-family: 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.7;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+
+h2, h3 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 6px;
+  margin-top: 40px;
+  margin-bottom: 16px;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+.project-entry, .exp-entry, .edu-entry, .skill-category {
+  margin-bottom: 32px;
+}
+
+.skill-category ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.skill-category li {
+  margin-bottom: 6px;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+  margin: 0 0 20px 0;
+}
