@@ -1,0 +1,36 @@
+- layout: left
+  name: AWS AutoConnect
+  link: https://aws-vpc-api.vercel.app/
+  github: https://github.com/jum94kr/aws_vpc_api
+  quote: ""
+  description: >
+    A fully automated tool developed in collaboration with the AWS VPN team to simplify IPsec VPN setup between on-premise equipment and AWS environments with a single click.
+    Key Features:
+    * Automatically retrieves and applies AWS Customer Gateway / Site-to-Site VPN configuration
+    * Allows direct VPN configuration from on-premise equipment
+    * Implements secure API authentication using Cross Account Access
+
+    Role:
+    * Designed automation logic to identify and apply necessary VPN configurations
+    * Conducted end-to-end VPN testing and troubleshooting
+    * Enabled secure API access from on-premise environments to AWS resources
+    * Strengthened architecture with Cross Account Access for enhanced security
+
+- layout: left
+  name: Cloud VPN Throughput Measure
+  quote: ""
+  description: >
+    This project involves building a cloud-based performance testing environment for evaluating VPN, firewall, and SSLVPN throughput between on-premise equipment and virtual machines across AWS, Azure, and GCP.
+    * Designed cloud networks tailored for VPN performance testing
+    * Configured routing, security groups, and subnet segmentation
+    * Deployed and connected VPN Gateway and Customer Gateway
+    * Integrated Spirent TestCenter for automated performance measurement
+    * Conducted end-to-end throughput validation across cloud and on-prem connections
+
+- layout: left
+  name: FLIGHT SCHEDULE
+  link: https://flight-lookup.vercel.app/
+  github: jum94kr/flight-lookup
+  quote: ""
+  description: >
+    A personal project to explore real-time API request handling through flight schedule data. Built using React, styled-components, and TypeScript for modern, maintainable front-end design. The project demonstrates structured data fetching, responsive UI, and component-level styling.

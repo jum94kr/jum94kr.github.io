@@ -1,0 +1,17 @@
+- category: Cloud Platforms
+  items:
+    - AWS
+    - Azure
+    - GCP
+
+- category: Networking
+  items:
+    - VPN / IPsec
+    - BGP / OSPF
+    - Firewall (Fortinet, Cisco ASA)
+
+- category: Programming & Tools
+  items:
+    - Python
+    - Terraform
+    - GitHub Actions
