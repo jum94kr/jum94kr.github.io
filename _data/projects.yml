@@ -1,6 +1,6 @@
 - layout: left
   name: AWS AutoConnect
-  Demo link: https://aws-vpc-api.vercel.app/
+  link: https://aws-vpc-api.vercel.app/ 
   github: https://github.com/jum94kr/aws_vpc_api
   quote: "" # 빈 문자열로 처리
   description: |
