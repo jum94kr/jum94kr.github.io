@@ -1,4 +1,18 @@
-- layout: top-middle
+
+- layout: left
+  name: AWS AutoConnect
+  Demo link: https://aws-vpc-api.vercel.app/
+  github: https://github.com/jum94kr/aws_vpc_api
+  
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+  AWS VPN팀 과 협업하여, 온프레미스 장비와 AWS 간의 IPsec VPN 연결을 버튼 한 번으로 자동 구성할 수 있는 도구를 개발했습니다.
+  * AWS Customer Gateway / Site-to-Site VPN 정보 자동 조회 및 적용
+  * 온프레미스 장비에서 직접 VPN 연결 설정 가능
+  * Cross Account Access를 통한 보안 API 인증 구성
+    
+- layout: left
   name: FLIGHT SCHEDULE
   link: https://flight-lookup.vercel.app/
   github: jum94kr/flight-lookup
@@ -8,15 +22,8 @@
   description: | # this will include new lines to allow paragraphs
     The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience with <mark>API request handling</mark>. My passion for managing flight schedules, developed through extensive global travel, fueled my interest in leveraging an API from API Hub to enrich my learning experience. To enhance the quality and organization of the project, I utilized <mark>styled components</mark>, a styling library that provides a more modular, maintainable, and efficient approach to styling <mark>React</mark> components. Additionally, I implemented <mark>TypeScript</mark> to improve the overall code quality, maintainability, and scalability of the project. The strong typing system of <mark>TypeScript</mark> enabled me to better structure the code and provide more comprehensive documentation, while also improving tooling support.
 
-- layout: top-middle
-  name: React Diary
-  link: https://github.com/jum94kr/diary
-  github: jum94kr/diary
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    In React Diary, I have developed the functions that users can create, read, update, and delete tasks that they need to complete. The user interface was built with <mark>React</mark>, and data would be stored in a database.
 
-- layout: top-middle
+- layout: left
   name: Site Manager
   link: https://github.com/jum94kr/quinn-site-manager
   github: jum94kr/quinn-site-manager
@@ -24,19 +31,3 @@
     Test / DevOps
   description: | # this will include new lines to allow paragraphs
     In this project, I undertook the responsibility of developing and executing a comprehensive <mark>test plan</mark> and <mark>test cases</mark>. Throughout the testing process, I meticulously identified and documented any defects or issues encountered and promptly reported them to the development team for resolution.
-
-- layout: top-middle
-  name: To Do List 
-  link: https://github.com/jum94kr/Finalised
-  github: jum94kr/Finalised
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    The To-Do project was developed utilising <mark>Javascript</mark> for the front-end and in order to optimise user experience, the project leverages the <mark>Geolocation API</mark>, allowing for automatic detection of the user's current location, and the real-time display of weather conditions specific to that location. The primary function of the To-Do project centers on the full CRUD cycle, which enables users to easily create, retrieve, update, and delete their personalised list of tasks which increasing productivity.
-
-- layout: top-middle
-  name: Calculator
-  link: https://github.com/jum94kr/calculator-vanilla-javascript
-  github: jum94kr/calculator-vanilla-javascript
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    This is a <mark>Javascript</mark> project that offers a streamlined solution for performing basic math equations with ease. Utilizing simple and intuitive user interface design, the project provides an accessible and user-friendly experience for users to perform arithmetic operations quickly and efficiently.
