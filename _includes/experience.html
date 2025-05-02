@@ -1,6 +1,12 @@
-<div class="container experience-container">
-  <h3>{{ site.experience_title | default: "Experience" }}</h3>
-  {% for experience in site.data.experience %}
-    {% include {{ experience.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=experience %}
-  {% endfor %}
-</div>
+{% assign experience_data = site.data.experience %}
+{% if page.lang == "en" %}
+  {% assign experience_data = site.data.experience_en %}
+{% endif %}
+
+{% for exp in experience_data %}
+  <div class="exp-entry">
+    <h3>{{ exp.position }} @ {{ exp.company }}</h3>
+    <p>{{ exp.dates }}</p>
+    <p>{{ exp.description }}</p>
+  </div>
+{% endfor %}

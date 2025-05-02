@@ -1,6 +1,17 @@
-<div class="container projects-container">
-  <h3>{{ site.projects_title | default: "Projects" }}</h3>
-  {% for project in site.data.projects %}
-    {% include {{ project.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=project %}
-  {% endfor %}
-</div>
+{% assign projects = site.data.projects %}
+{% if page.lang == "en" %}
+  {% assign projects = site.data.projects_en %}
+{% endif %}
+
+{% for project in projects %}
+  <div class="project-entry">
+    <h3>{{ project.name }}</h3>
+    {% if project.link %}
+      <p><a href="{{ project.link }}" target="_blank">🌐 Visit</a></p>
+    {% endif %}
+    {% if project.github %}
+      <p><a href="{{ project.github }}" target="_blank">💻 GitHub</a></p>
+    {% endif %}
+    <p>{{ project.description }}</p>
+  </div>
+{% endfor %}
