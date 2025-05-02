@@ -1,50 +1,54 @@
 - layout: left
-  name: AWS AutoConnect (2025)
-  link: https://aws-vpc-api.vercel.app/ 
+  name: "AWS AutoConnect (2025)"
+  link: https://aws-vpc-api.vercel.app/
   github: https://github.com/jum94kr/aws_vpc_api
-  quote: "" # 빈 문자열로 처리
-  description: |
-    Collaborated with AWS HQ to develop a tool that automates the IPsec VPN setup between on-premise systems and AWS. The tool enables users to configure VPN connections with a single click, eliminating manual configurations
-   
-   Key Features
-   * Automatic retrieval and application of AWS Customer Gateway and Site-to-Site VPN settings
-   
-   My Contributions
-   * Identified necessary parameters for VPN connections and designed automation logic
-   * Conducted testing and troubleshooting between on-premise equipment and AWS VPN
-   * Enabled on-premise systems to directly fetch AWS resource information
-   * Implemented secure API calls using Cross Account IAM structure
+  quote: ""
+  description: >
+    Collaborated with AWS HQ to develop a tool that automates the IPsec VPN setup between on-premise systems and AWS. 
+    The tool enables users to configure VPN connections with a single click, eliminating manual configurations.
+
+    Key Features:
+    * Automatic retrieval and application of AWS Customer Gateway and Site-to-Site VPN settings
+
+    My Contributions:
+    * Identified necessary parameters for VPN connections and designed automation logic
+    * Conducted testing and troubleshooting between on-premise equipment and AWS VPN
+    * Enabled on-premise systems to directly fetch AWS resource information
+    * Implemented secure API calls using Cross Account IAM structure
 
 - layout: left
-  name: Cloud VPN Through Put Test (2025)
-  quote: "" # 빈 문자열로 처리
-  description: |
-    This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
+  name: "Cloud VPN Through Put Test (2025)"
+  quote: ""
+  description: >
+    This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance 
+    of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
     Spirent TestCenter was used to measure throughput under various network conditions and security configurations.
-    
-    My Role
-    Designed and deployed cloud network environments for VPN testing
+
+    My Role:
+    * Designed and deployed cloud network environments for VPN testing
     * Configured routing, security groups, NACLs, and VPC structures
     * Integrated and connected VPN Gateways and Customer Gateways
     * Connected Spirent devices and automated performance measurements
     * Troubleshot and validated communication between cloud VMs and on-premise systems
-    
+
 - layout: left
-  name: KOREA SEVEN (7-ELEVEN) – Disaster Recovery (DR) Center Deployment (2024)
-  quote: "" # 빈 문자열로 처리
-  description: |
-    Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.
-    
-    My Role
+  name: "KOREA SEVEN (7-ELEVEN) – Disaster Recovery (DR) Center Deployment (2024)"
+  quote: ""
+  description: >
+    Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication 
+    with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.
+
+    My Role:
     * Deployed and configured VPN equipment at the DR site
     * Built secure VPN tunnels between DR center and nationwide branch locations
     * Implemented failure detection and automated routing failover to the DR center
     * Designed and tested Active-Standby HA configuration for DR environment
 
 - layout: left
-  name: FLIGHT SCHEDULE
+  name: "FLIGHT SCHEDULE"
   link: https://flight-lookup.vercel.app/
   github: jum94kr/flight-lookup
-  quote: "" # 여기도 빈 문자열로 처리
-  description: |
-    The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience with <mark>API request handling</mark>. My passion for managing flight schedules, developed through extensive global travel, fueled my interest in leveraging an API from API Hub to enrich my learning experience. To enhance the quality and organization of the project, I utilized <mark>styled components</mark>, a styling library that provides a more modular, maintainable, and efficient approach to styling <mark>React</mark> components. Additionally, I implemented <mark>TypeScript</mark> to improve the overall code quality, maintainability, and scalability of the project. The strong typing system of <mark>TypeScript</mark> enabled me to better structure the code and provide more comprehensive documentation, while also improving tooling support.
+  quote: ""
+  description: >
+    The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience 
+    with API request handling. My passion for managing flight schedules, developed through extensiv
