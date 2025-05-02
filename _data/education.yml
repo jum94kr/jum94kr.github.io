@@ -1,0 +1,23 @@
+- layout: left
+  name: University of Queensland
+  dates: 2013 ~ 2015
+  quote: >
+   Bachelor of Information Technology  
+  description: | # this will include new lines to allow paragraphs
+    * During my time at University of Queensland, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+- layout: left
+  name: Boston College
+  dates: 2013 - 2014
+  quote: >
+    Exchange Program - Computer Science
+  description: | # this will include new lines to allow paragraphs
+    * Boston College exchange program provided me  a unique and valuable experience that helped you grow personally, academically, and culturally.
+    * Studying abroad can increase your cultural awareness and understanding of different cultures. Boston College offers a diverse student body, and you may have had the opportunity to meet and learn from students from around the world.
+- layout: left
+  name: Charles Sturt University
+  dates: 2019 - current
+  quote: >
+    Master's degree in Cloud Computing
+  description: | # this will include new lines to allow paragraphs
+    * Master's degree in Cloud Computing provide me with a deep understanding of cloud computing principles, technologies, and applications, as well as the skills to design, implement, and manage cloud computing solutions.
+    
