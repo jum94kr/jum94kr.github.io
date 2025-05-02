@@ -9,7 +9,7 @@
    Key Features
    * Automatic retrieval and application of AWS Customer Gateway and Site-to-Site VPN settings
    
-   My Contributions:
+   My Contributions
    * Identified necessary parameters for VPN connections and designed automation logic
    * Conducted testing and troubleshooting between on-premise equipment and AWS VPN
    * Enabled on-premise systems to directly fetch AWS resource information
@@ -22,7 +22,7 @@
     This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
     Spirent TestCenter was used to measure throughput under various network conditions and security configurations.
     
-    My Role:
+    My Role
     Designed and deployed cloud network environments for VPN testing
     * Configured routing, security groups, NACLs, and VPC structures
     * Integrated and connected VPN Gateways and Customer Gateways
@@ -35,7 +35,7 @@
   description: |
     Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.
     
-    My Role:
+    My Role
     * Deployed and configured VPN equipment at the DR site
     * Built secure VPN tunnels between DR center and nationwide branch locations
     * Implemented failure detection and automated routing failover to the DR center
