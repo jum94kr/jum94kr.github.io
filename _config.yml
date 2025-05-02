@@ -3,8 +3,8 @@ repository: https://github.com/jum94kr/jum94kr.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: TYLER AN  
-title: Network Engineer / FrontEnd Developer
+name: HONG CHANG (TYLER) AN  
+title: Network Engineer 
 email: jum94kr@gmail.com
 website: jum94kr.github.io
 Phone: +82 10 5801 5164
@@ -17,7 +17,7 @@ linkedin_username: hongchangan
 # about_title: About Me
 about_profile_image: images/myprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  As a detail-oriented Network Engineer, I bring 2 years of hands-on experience in designing, implementing, and maintaining high-performance network infrastructures. I have successfully configured and managed routers, switches, firewalls, and VPNs to ensure seamless connectivity across both LAN and WAN environments. My expertise includes working with Axgate and Cisco devices, with a strong focus on optimizing network performance and security.
+  I'm a Network Engineer with 2 years of experience designing and deploying secure VPN networks across on-premise and cloud environments. I focus on building stable, scalable infrastructure and solving real-world problems through hands-on work. I believe in learning by doing and continuously improving through practical experience.
 
 
 # Education Section
