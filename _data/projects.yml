@@ -1,36 +1,45 @@
 - layout: left
-  name: AWS AutoConnect
+  name: AWS AutoConnect (2025)
   link: https://aws-vpc-api.vercel.app/ 
   github: https://github.com/jum94kr/aws_vpc_api
   quote: "" # 빈 문자열로 처리
   description: |
-    AWS VPN팀 과 협업하여, 온프레미스 장비와 AWS 간의 IPsec VPN 연결을 버튼 한 번으로 자동 구성할 수 있는 도구를 개발했습니다.
-    주요기능
-    * AWS Customer Gateway / Site-to-Site VPN 정보 자동 조회 및 적용
-    * 온프레미스 장비에서 직접 VPN 연결 설정 가능
-    * Cross Account Access를 통한 보안 API 인증 구성
-    
-    Role
-    * VPN 연결에 필요한 정보 식별 및 자동화 로직 설계
-    * 온프레미스와 AWS 간의 VPN 연결 테스트 및 문제 해결
-    * 온프레미스에서 AWS 리소스 정보를 직접 조회할 수 있는 환경 구축
-    * Cross Account 구조를 통한 보안 강화 및 API 호출 구현
+    Collaborated with AWS HQ to develop a tool that automates the IPsec VPN setup between on-premise systems and AWS. The tool enables users to configure VPN connections with a single click, eliminating manual configurations
+   
+   Key Features
+   * Automatic retrieval and application of AWS Customer Gateway and Site-to-Site VPN settings
+   
+   My Contributions:
+   * Identified necessary parameters for VPN connections and designed automation logic
+   * Conducted testing and troubleshooting between on-premise equipment and AWS VPN
+   * Enabled on-premise systems to directly fetch AWS resource information
+   * Implemented secure API calls using Cross Account IAM structure
 
 - layout: left
-  name: Cloud VPN Throughput Measure
+  name: Cloud VPN Through Put Test (2025)
   quote: "" # 빈 문자열로 처리
   description: |
-    AWS VPN팀 과 협업하여, 온프레미스 장비와 AWS 간의 IPsec VPN 연결을 버튼 한 번으로 자동 구성할 수 있는 도구를 개발했습니다.
-    * AWS Customer Gateway / Site-to-Site VPN 정보 자동 조회 및 적용
-    * 온프레미스 장비에서 직접 VPN 연결 설정 가능
-    * Cross Account Access를 통한 보안 API 인증 구성
-
-    Worked with AWS HQ to build a tool that automates IPsec VPN setup between on-premise systems and AWS with a single click.
-    *Automatically retrieves and applies AWS Customer Gateway & VPN settings
-    * Allows VPN configuration directly from on-premise devices
-    * Secured with Cross Account Access for API authentication
-
-
+    This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
+    Spirent TestCenter was used to measure throughput under various network conditions and security configurations.
+    
+    My Role:
+    Designed and deployed cloud network environments for VPN testing
+    * Configured routing, security groups, NACLs, and VPC structures
+    * Integrated and connected VPN Gateways and Customer Gateways
+    * Connected Spirent devices and automated performance measurements
+    * Troubleshot and validated communication between cloud VMs and on-premise systems
+    
+- layout: left
+  name: KOREA SEVEN (7-ELEVEN) – Disaster Recovery (DR) Center Deployment (2024)
+  quote: "" # 빈 문자열로 처리
+  description: |
+    Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.
+    
+    My Role:
+    * Deployed and configured VPN equipment at the DR site
+    * Built secure VPN tunnels between DR center and nationwide branch locations
+    * Implemented failure detection and automated routing failover to the DR center
+    * Designed and tested Active-Standby HA configuration for DR environment
 
 - layout: left
   name: FLIGHT SCHEDULE
