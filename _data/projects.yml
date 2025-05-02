@@ -7,13 +7,13 @@
     Collaborated with AWS VPN Team to develop a tool that automates the IPsec VPN setup between on-premise systems and AWS. 
     The tool enables users to configure VPN connections with a single click, eliminating manual configurations.<br><br>
 
-    <strong>My Contributions</strong>
-    <ul>
-      <li>Identified necessary parameters for VPN connections and designed automation logic</li>
-      <li>Conducted testing and troubleshooting between on-premise equipment and AWS VPN</li>
-      <li>Enabled on-premise systems to directly fetch AWS resource information</li>
-      <li>Implemented secure API calls using Cross Account IAM structure</li>
-    </ul>
+    <strong>My Contributions</strong><br>
+    <div style="font-size: 1.05rem; line-height: 1.7;">
+      <p>• Identified necessary parameters for VPN connections and designed automation logic</p>
+      <p>• Conducted testing and troubleshooting between on-premise equipment and AWS VPN</p>
+      <p>• Enabled on-premise systems to directly fetch AWS resource information</p>
+      <p>• Implemented secure API calls using Cross Account IAM structure</p>
+    </div>
 
 - layout: left
   name: "Cloud VPN Through Put Test"
@@ -21,31 +21,31 @@
   description: >
     This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance 
     of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
-    Spirent TestCenter was used to measure throughput under various network conditions and security configurations.<br> <br>
+    Spirent TestCenter was used to measure throughput under various network conditions and security configurations.<br><br>
 
-    <strong>My Contributions</strong>
-   
-      <li>Designed and deployed cloud network environments for VPN testing</li>
-      <li>Configured routing, security groups, NACLs, and VPC structures</li>
-      <li>Integrated and connected VPN Gateways and Customer Gateways</li>
-      <li>Connected Spirent devices and automated performance measurements</li>
-      <li>Troubleshot and validated communication between cloud VMs and on-premise systems</li>
- 
+    <strong>My Contributions</strong><br>
+    <div style="font-size: 1.05rem; line-height: 1.7;">
+      <p>• Designed and deployed cloud network environments for VPN testing</p>
+      <p>• Configured routing, security groups, NACLs, and VPC structures</p>
+      <p>• Integrated and connected VPN Gateways and Customer Gateways</p>
+      <p>• Connected Spirent devices and automated performance measurements</p>
+      <p>• Troubleshot and validated communication between cloud VMs and on-premise systems</p>
+    </div>
 
 - layout: left
   name: "7-ELEVEN – Disaster Recovery Center Deployment"
   quote: ""
   description: >
     Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication 
-    with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.
+    with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.<br><br>
 
-    <br> <br><strong>My Contributions</strong>
- 
-      <li>Deployed and configured VPN equipment at the DR site</li>
-      <li>Built secure VPN tunnels between DR center and nationwide branch locations</li>
-      <li>Implemented failure detection and automated routing failover to the DR center</li>
-      <li>Designed and tested Active-Standby HA configuration for DR environment</li>
-  
+    <strong>My Contributions</strong><br>
+    <div style="font-size: 1.05rem; line-height: 1.7;">
+      <p>• Deployed and configured VPN equipment at the DR site</p>
+      <p>• Built secure VPN tunnels between DR center and nationwide branch locations</p>
+      <p>• Implemented failure detection and automated routing failover to the DR center</p>
+      <p>• Designed and tested Active-Standby HA configuration for DR environment</p>
+    </div>
 
 - layout: left
   name: "FLIGHT SCHEDULE"
@@ -55,11 +55,11 @@
   description: >
     The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience 
     with API request handling. My passion for managing flight schedules, developed through extensive global travel, 
-    fueled my interest in leveraging an API from API Hub to enrich my learning experience.
+    fueled my interest in leveraging an API from API Hub to enrich my learning experience.<br><br>
 
-     <br> <br><strong>Technology Highlights</strong>
-    
-      <li>Used styled-components for modular, maintainable React styling</li>
-      <li>Implemented TypeScript for improved tooling and scalability</li>
-      <li>Focused on clean architecture, reusable components, and rich API integration</li>
-
+    <strong>Technology Highlights</strong><br>
+    <div style="font-size: 1.05rem; line-height: 1.7;">
+      <p>• Used styled-components for modular, maintainable React styling</p>
+      <p>• Implemented TypeScript for improved tooling and scalability</p>
+      <p>• Focused on clean architecture, reusable components, and rich API integration</p>
+    </div>
