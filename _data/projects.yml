@@ -5,9 +5,32 @@
   quote: "" # 빈 문자열로 처리
   description: |
     AWS VPN팀 과 협업하여, 온프레미스 장비와 AWS 간의 IPsec VPN 연결을 버튼 한 번으로 자동 구성할 수 있는 도구를 개발했습니다.
+    주요기능
     * AWS Customer Gateway / Site-to-Site VPN 정보 자동 조회 및 적용
     * 온프레미스 장비에서 직접 VPN 연결 설정 가능
     * Cross Account Access를 통한 보안 API 인증 구성
+    
+    Role
+    * VPN 연결에 필요한 정보 식별 및 자동화 로직 설계
+    * 온프레미스와 AWS 간의 VPN 연결 테스트 및 문제 해결
+    * 온프레미스에서 AWS 리소스 정보를 직접 조회할 수 있는 환경 구축
+    * Cross Account 구조를 통한 보안 강화 및 API 호출 구현
+
+- layout: left
+  name: Cloud VPN Throughput Measure
+  quote: "" # 빈 문자열로 처리
+  description: |
+    AWS VPN팀 과 협업하여, 온프레미스 장비와 AWS 간의 IPsec VPN 연결을 버튼 한 번으로 자동 구성할 수 있는 도구를 개발했습니다.
+    * AWS Customer Gateway / Site-to-Site VPN 정보 자동 조회 및 적용
+    * 온프레미스 장비에서 직접 VPN 연결 설정 가능
+    * Cross Account Access를 통한 보안 API 인증 구성
+
+    Worked with AWS HQ to build a tool that automates IPsec VPN setup between on-premise systems and AWS with a single click.
+    *Automatically retrieves and applies AWS Customer Gateway & VPN settings
+    * Allows VPN configuration directly from on-premise devices
+    * Secured with Cross Account Access for API authentication
+
+
 
 - layout: left
   name: FLIGHT SCHEDULE
