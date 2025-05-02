@@ -1,45 +1,49 @@
-
 - layout: left
   company: AXGATE
   link: https://www.axgate.com/main/
-  job_title: 네트워크 엔지니어
-  dates: 2023.06 ~
+  job_title: Network Engineer
+  dates: 2023.06 ~ 
   quote: >
-  description: |
-    * 교육부 SSLVPN 구성 설계 및 장애 처리
-    * DR 센터 구축 및 Active-Standby HA 구성
-    * AWS, Azure, GCP 환경 기반 VPN 인프라 구축
-    * Spirent TestCenter를 활용한 VPN/방화벽 성능 자동화 테스트
-    * NAT, Routing, IPsec 등 네트워크 기본 개념과 실전 최적화 경험
+
+  description: | # this will include new lines to allow paragraphs
+     Key Responsibilities & Experience:
+     * Designed and troubleshooted SSLVPN configurations for the Korean Ministry of Education
+     * Built and maintained Disaster Recovery (DR) centers with Active-Standby HA setup
+     * Designed and deployed VPN infrastructure across AWS, Azure, and GCP environments
+     * Automated VPN, Firewall, and SSLVPN performance testing using Spirent TestCenter
+     * Gained hands-on experience in optimizing VPN, firewall rules, and routing policies
+     * Acquired foundational knowledge in networking concepts (NAT, routing, IPsec, L2/L3)
+
 
 - layout: left
   company: SOL Edu & Migration
   link: https://www.soledu.net/en/
-  job_title: 소프트웨어 개발자
+  job_title: Software Developer
   dates: 2016.03 ~ 2017.07
   quote: >
-  description: |
-    * 메인 웹사이트 리뉴얼 및 MySQL 기반 DB 관리
-    * 세미나 대기 리스트 기능 (JavaScript)
-    * 맞춤형 인사관리 도구 개발 (PHP)
+    
+  description: | # this will include new lines to allow paragraphs
+    During my tenure at SOL 'Migration', I was entrusted with the responsibility of modernizing the primary website and administering the new database system by utilizing <mark>MySQL</mark>. In addition, I was fortunate enough to spearhead the development of a waiting list for seminars utilizing <mark>Javascript</mark>, while also designing an advanced human resources management tool tailored specifically to the unique requirements of SOL Migration, utilizing the <mark>PHP</mark>.
 
 - layout: left
-  company: 대한민국 육군
-  job_title: 서버 및 IT 지원 병
-  dates: 2021.06 ~ 2022.12
+  company: Republic of Korea Army
+  job_title: Sever Management & IT Support
+  dates: 2021.6 ~ 2022.12
   quote: >
-  description: |
-    * 군용 컴퓨터 200대 이상 관리
-    * 국방망(인트라넷) 운영 및 보안 관리
-    * 전술 장비 유지보수
 
+  description: | # this will include new lines to allow paragraphs
+     * Manage more than 200 military computers.
+     * Military intranet management.
+     * IT security management.
+     * Tactical device handling.
+     
 - layout: left
   company: RiverOne
   link: https://github.com/jum94kr/quinn-site-manager
-  job_title: 웹 테스트 엔지니어
-  dates: 2020.04 ~ 2020.10
+  job_title: Web Testing
+  dates: 2020.4 ~ 2020.10
   quote: >
-    사이트 인력 관리
-  description: |
-    * 버그 재현 및 디버깅
-    * UX 개선 피드백 제공
+   Site workforce manager
+  description: | # this will include new lines to allow paragraphs
+    * Collaborating with the development team to reproduce and debug defects.
+    * Providing feedback to the development team on usability and user experience issues.

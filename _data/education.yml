@@ -1,25 +1,23 @@
-
 - layout: left
-  name: 퀸즐랜드 대학교
+  name: University of Queensland
   dates: 2013 ~ 2015
   quote: >
-    정보기술학 학사
-  description: |
-    * 협업 능력과 마감 기한에 맞춰 일하는 역량을 키운 시기였습니다.
-    * 대학 생활을 통해 워라밸에 대한 인식도 함께 배웠습니다.
-
+   Bachelor of Information Technology  
+  description: | # this will include new lines to allow paragraphs
+    * During my time at University of Queensland, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 - layout: left
-  name: 보스턴 칼리지
-  dates: 2013 ~ 2014
+  name: Boston College
+  dates: 2013 - 2014
   quote: >
-    컴퓨터공학 교환학생
-  description: |
-    * 다양한 국적의 학생들과 교류하며 문화적 감수성과 글로벌 시야를 키운 값진 경험이었습니다.
-
+    Exchange Program - Computer Science
+  description: | # this will include new lines to allow paragraphs
+    * Boston College exchange program provided me  a unique and valuable experience that helped you grow personally, academically, and culturally.
+    * Studying abroad can increase your cultural awareness and understanding of different cultures. Boston College offers a diverse student body, and you may have had the opportunity to meet and learn from students from around the world.
 - layout: left
-  name: 찰스 스터트 대학교
-  dates: 2019 ~ 재학 중
+  name: Charles Sturt University
+  dates: 2019 - current
   quote: >
-    클라우드 컴퓨팅 석사 과정
-  description: |
-    * 클라우드 기술의 원리부터 실제 응용까지 전반적인 지식과 실무 능력을 쌓고 있습니다.
+    Master's degree in Cloud Computing
+  description: | # this will include new lines to allow paragraphs
+    * Master's degree in Cloud Computing provide me with a deep understanding of cloud computing principles, technologies, and applications, as well as the skills to design, implement, and manage cloud computing solutions.
+    

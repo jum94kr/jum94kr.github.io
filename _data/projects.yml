@@ -1,35 +1,47 @@
-
 - layout: left
   name: "AWS AutoConnect"
   link: https://aws-vpc-api.vercel.app/
   github: https://github.com/jum94kr/aws_vpc_api
   quote: ""
   description: >
-    온프레미스 ↔ AWS 간 IPsec VPN 자동 구성 도구 개발.<br><br>
-    <strong>기여한 내용</strong><br>
-      <p>• 클릭 한 번으로 설정 완료, 수동 구성 제거</p>
-      <p>• Cross Account IAM 구조로 보안 API 연동</p>
-      <p>• 파라미터 정의 및 자동화 로직 설계, 테스트 수행</p>
+    Collaborated with AWS VPN Team to develop a tool that automates the IPsec VPN setup between on-premise systems and AWS. 
+    The tool enables users to configure VPN connections with a single click, eliminating manual configurations.<br><br>
+
+    <strong>My Contributions</strong><br>
+      <p>• Identified necessary parameters for VPN connections and designed automation logic</p>
+      <p>• Conducted testing and troubleshooting between on-premise equipment and AWS VPN</p>
+      <p>• Enabled on-premise systems to directly fetch AWS resource information</p>
+      <p>• Implemented secure API calls using Cross Account IAM structure</p>
+
 
 - layout: left
-  name: "Cloud VPN Throughput Test"
+  name: "Cloud VPN Through Put Test"
   quote: ""
   description: >
-    AWS, Azure, GCP 클라우드 환경에서 VPN 성능 테스트 환경 구축.<br><br>
-    <strong>기여한 내용</strong><br>
-      <p>• VPN, 방화벽, SSLVPN 성능 비교</p>
-      <p>• Routing/NACL/VPC 구성</p>
-      <p>• Spirent 기반 Throughput 측정 및 자동화</p>
+    This project involved building a cloud-native test environment across AWS, Azure, and GCP to evaluate the performance 
+    of VPN, Firewall, and SSLVPN connections between on-premise devices and cloud VMs.
+    Spirent TestCenter was used to measure throughput under various network conditions and security configurations.<br><br>
+
+    <strong>My Contributions</strong><br>
+      <p>• Designed and deployed cloud network environments for VPN testing</p>
+      <p>• Configured routing, security groups, NACLs, and VPC structures</p>
+      <p>• Integrated and connected VPN Gateways and Customer Gateways</p>
+      <p>• Connected Spirent devices and automated performance measurements</p>
+      <p>• Troubleshot and validated communication between cloud VMs and on-premise systems</p>
+
 
 - layout: left
-  name: "7-ELEVEN – DR 센터 구축"
+  name: "7-ELEVEN – Disaster Recovery Center Deployment"
   quote: ""
   description: >
-    7-ELEVEN 전국 매장의 장애 대응용 DR 센터 구축.<br><br>
-    <strong>기여한 내용</strong><br>
-      <p>• 장애 시 자동 전환 구조 설계</p>
-      <p>• 전국 매장과 VPN 터널 연결</p>
-      <p>• Active-Standby HA 구성 및 테스트</p>
+    Deployed and configured a Disaster Recovery (DR) center for KOREA SEVEN (7-ELEVEN) to ensure uninterrupted communication 
+    with nationwide branches during main site failures. The system was designed to automatically switch to the DR center in case of a failure.<br><br>
+
+    <strong>My Contributions</strong><br>
+      <p>• Deployed and configured VPN equipment at the DR site</p>
+      <p>• Built secure VPN tunnels between DR center and nationwide branch locations</p>
+      <p>• Implemented failure detection and automated routing failover to the DR center</p>
+      <p>• Designed and tested Active-Standby HA configuration for DR environment</p>
 
 - layout: left
   name: "FLIGHT SCHEDULE"
@@ -37,8 +49,12 @@
   github: jum94kr/flight-lookup
   quote: ""
   description: >
-    API 연동 연습용 사이드 프로젝트로 React와 TypeScript를 활용하여 개발.<br><br>
-    <strong>기술 요소</strong><br>
-      <p>• 스타일 컴포넌트 기반 React UI</p>
-      <p>• API Hub 기반 항공편 정보 연동</p>
-      <p>• 재사용 가능한 컴포넌트 중심 설계</p>
+    The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience 
+    with API request handling. My passion for managing flight schedules, developed through extensive global travel, 
+    fueled my interest in leveraging an API from API Hub to enrich my learning experience.<br><br>
+
+    <strong>Technology Highlights</strong><br>
+      <p>• Used styled-components for modular, maintainable React styling</p>
+      <p>• Implemented TypeScript for improved tooling and scalability</p>
+      <p>• Focused on clean architecture, reusable components, and rich API integration</p>
+
