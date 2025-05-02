@@ -1,3 +1,9 @@
+{% if page.lang == 'kr' %}
+  {% assign education = site.data.education_kr %}
+{% else %}
+  {% assign education = site.data.education %}
+{% endif %}
+
 <div class="container education-container">
   <h3>{{ site.education_title | default: "Education" }}</h3>
   {% for education in site.data.education %}

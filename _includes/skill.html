@@ -1,3 +1,9 @@
+{% if page.lang == 'kr' %}
+  {% assign skill = site.data.skill_kr %}
+{% else %}
+  {% assign skill = site.data.skill %}
+{% endif %}
+
 <div class="container education-container">
     <h3>{{ site.education_title | default: "Skill" }}</h3>
     <p class="quote">This is the list of technologies I am currently using or have used in my work.</p>

@@ -1,3 +1,9 @@
+{% if page.lang == 'kr' %}
+  {% assign projects = site.data.projects_kr %}
+{% else %}
+  {% assign projects = site.data.projects %}
+{% endif %}
+
 <div class="container projects-container">
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
   {% for project in site.data.projects %}

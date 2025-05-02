@@ -1,3 +1,9 @@
+{% if page.lang == 'kr' %}
+  {% assign experience = site.data.experience_kr %}
+{% else %}
+  {% assign experience = site.data.experience %}
+{% endif %}
+
 <div class="container experience-container">
   <h3>{{ site.experience_title | default: "Experience" }}</h3>
   {% for experience in site.data.experience %}
