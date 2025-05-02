@@ -4,7 +4,7 @@
   Demo link: https://aws-vpc-api.vercel.app/
   github: https://github.com/jum94kr/aws_vpc_api
   
-  quote: >
+  quote: ""
     
   description: | # this will include new lines to allow paragraphs
   AWS VPN팀 과 협업하여, 온프레미스 장비와 AWS 간의 IPsec VPN 연결을 버튼 한 번으로 자동 구성할 수 있는 도구를 개발했습니다.
@@ -17,7 +17,7 @@
   link: https://flight-lookup.vercel.app/
   github: jum94kr/flight-lookup
   
-  quote: >
+  quote: ""
     
   description: | # this will include new lines to allow paragraphs
     The Flight Schedule project represents a personal endeavor in which I sought to gain deeper knowledge and experience with <mark>API request handling</mark>. My passion for managing flight schedules, developed through extensive global travel, fueled my interest in leveraging an API from API Hub to enrich my learning experience. To enhance the quality and organization of the project, I utilized <mark>styled components</mark>, a styling library that provides a more modular, maintainable, and efficient approach to styling <mark>React</mark> components. Additionally, I implemented <mark>TypeScript</mark> to improve the overall code quality, maintainability, and scalability of the project. The strong typing system of <mark>TypeScript</mark> enabled me to better structure the code and provide more comprehensive documentation, while also improving tooling support.
@@ -27,7 +27,7 @@
   name: Site Manager
   link: https://github.com/jum94kr/quinn-site-manager
   github: jum94kr/quinn-site-manager
-  quote: >
+  quote: ""
     Test / DevOps
   description: | # this will include new lines to allow paragraphs
     In this project, I undertook the responsibility of developing and executing a comprehensive <mark>test plan</mark> and <mark>test cases</mark>. Throughout the testing process, I meticulously identified and documented any defects or issues encountered and promptly reported them to the development team for resolution.
